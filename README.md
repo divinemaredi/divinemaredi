@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Divine
-- 👀 I’m interested in coding Flutter applictions
-- 🌱 I’m currently learning about Riverpod
-- 📫 You can reach me on twitter @DivineMaredi
+- 👀 I enjoy Flutter app development
+- 💙 I’m in love with Riverpod
 
 <!---
 divinemaredi/divinemaredi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
